@@ -78,10 +78,10 @@
 # sent_id = Mongolian_Khalkha_grammar_9
 # text = Bi Dulmaa-g margaash ire-x-iig med-ne.
 # text[eng] = I know that Dulmaa will come tomorrow.
-1	Bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+1	Bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 2	Dulmaa-g	Dulmaa	PROPN	_	Case=Acc	4	nsubj	_	_
 3	margaash	margaash	ADV	_	_	4	advmod	_	_
-4	ire-x-iig	ire	VERB	_	Case=Acc|Tense=Fut|VerbForm=Inf	6	ccomp	_	_
+4	ire-x-iig	ire	VERB	_	Case=Acc|Tense=Fut|VerbForm=Inf	5	ccomp	_	_
 5	med-ne	med	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -108,9 +108,9 @@
 # sent_id = Mongolian_Khalkha_grammar_12
 # text = Bi zaxia bic-sn-ee mart-san.
 # text[eng] = I forgot that I had written a letter.
-1	Bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+1	Bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	zaxia	zaxia	NOUN	_	Case=Acc	3	obj	_	_
-3	bic-sn-ee	bic	VERB	_	Aspect=Perf|Reflex=Yes|VerbForm=Part	5	ccomp	_	_
+3	bic-sn-ee	bic	VERB	_	Aspect=Perf|Reflex=Yes|VerbForm=Part	4	ccomp	_	_
 4	mart-san	mart	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -119,9 +119,9 @@
 # text[eng] = When I was in the shop, Batu went to the post-office.
 1	Bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	delgüür-t	delgüür	NOUN	_	Case=Dat	3	obl	_	_
-3	bai-xa-d	bai	VERB	_	Case=Dat|Tense=Fut|VerbForm=Inf	7	advcl	_	_
-4	Bat	Bat	PROPN	_	Case=Nom	7	nsubj	_	_
-5	shuudan-d	shuudan	NOUN	_	Case=Dat	7	obl	_	_
+3	bai-xa-d	bai	VERB	_	Case=Dat|Tense=Fut|VerbForm=Inf	6	advcl	_	_
+4	Bat	Bat	PROPN	_	Case=Nom	6	nsubj	_	_
+5	shuudan-d	shuudan	NOUN	_	Case=Dat	6	obl	_	_
 6	yaw-san	yaw	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -139,10 +139,10 @@
 # sent_id = Mongolian_Khalkha_grammar_15
 # text = Ci yadra-x-aas-aa ömnö unta-x xeregtei.
 # text[eng] = You have to sleep before you get tired.
-1	Ci	ci	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-2	yadra-x-aas-aa	yadra	VERB	_	Case=Abl|Reflex=Yes|Tense=Fut|VerbForm=Inf	6	advcl	_	_
+1	Ci	ci	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+2	yadra-x-aas-aa	yadra	VERB	_	Case=Abl|Reflex=Yes|Tense=Fut|VerbForm=Inf	5	advcl	_	_
 3	ömnö	ömnö	ADP	_	_	2	case	_	_
-4	unta-x	unta	VERB	_	Tense=Fut|VerbForm=Inf	6	xcomp	_	_
+4	unta-x	unta	VERB	_	Tense=Fut|VerbForm=Inf	5	xcomp	_	_
 5	xeregtei	xeregtei	ADJ	_	Degree=Pos	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -161,8 +161,8 @@
 1	Ci	ci	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	ene	ene	DET	_	PronType=Dem	3	det	_	_
 3	nom	nom	NOUN	_	Case=Acc	4	obj	_	_
-4	aw-bal	aw	VERB	_	VerbForm=Conv	7	advcl	_	ConvType=Cond
-5	bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+4	aw-bal	aw	VERB	_	VerbForm=Conv	6	advcl	_	ConvType=Cond
+5	bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	unsh-na	unsh	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -181,18 +181,18 @@
 # sent_id = Mongolian_Khalkha_grammar_19
 # text = Xüü möngö aw-aad oxin-d beleg aw-san.
 # text[eng] = When the boy had got the money he bought a present for the girl.
-1	Xüü	xüü	NOUN	_	Case=Nom	7	nsubj	_	_
+1	Xüü	xüü	NOUN	_	Case=Nom	6	nsubj	_	_
 2	möngö	möngö	NOUN	_	Case=Acc	3	obj	_	_
-3	aw-aad	aw	VERB	_	VerbForm=Conv	7	advcl	_	ConvType=Perf
-4	oxin-d	oxin	NOUN	_	Case=Dat	7	obl	_	_
-5	beleg	beleg	NOUN	_	Case=Acc	7	obj	_	_
+3	aw-aad	aw	VERB	_	VerbForm=Conv	6	advcl	_	ConvType=Perf
+4	oxin-d	oxin	NOUN	_	Case=Dat	6	obl	_	_
+5	beleg	beleg	NOUN	_	Case=Acc	6	obj	_	_
 6	aw-san	aw	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = Mongolian_Khalkha_grammar_20
 # text = Ter zaxia bici-j bai-na ge-j xel-sen.
 # text[eng] = He said that he was writing a letter.
-1	Ter	ter	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+1	Ter	ter	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 2	zaxia	zaxia	NOUN	_	Case=Acc	3	obj	_	_
 3	bici-j	bic	VERB	_	Aspect=Prog|VerbForm=Conv	4	advcl	_	_
 4	bai-na	bai	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
@@ -247,11 +247,11 @@
 1	Ter	ter	DET	_	PronType=Dem	2	det	_	_
 2	xüü	xüü	NOUN	_	Case=Nom	4	nsubj	_	_
 3	gol	gol	NOUN	_	Case=Acc	4	obj	_	_
-4	gatal-snaa	gatal	VERB	_	VerbForm=Conv	10	advcl	_	Aspect=Succ
+4	gatal-snaa	gatal	VERB	_	VerbForm=Conv	9	advcl	_	Aspect=Succ
 5	nögöö	Nögöö	DET	_	PronType=Dem	6	det	_	_
 6	xojor-oos-oo	xojor	NUM	_	Case=Abl|NumType=Card|Reflex=Yes	7	obl	_	_
-7	tasra-n	tasra	VERB	_	VerbForm=Conv	10	advcl	_	Modality=Yes
-8	gol	gol	NOUN	_	Case=Acc	10	obj	_	_
+7	tasra-n	tasra	VERB	_	VerbForm=Conv	9	advcl	_	Modality=Yes
+8	gol	gol	NOUN	_	Case=Acc	9	obj	_	_
 9	ögsö-v	ögsö	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -311,9 +311,9 @@
 # text[eng] = The lawyer had planned to meet with his client today, but because he was busy, (they) postponed the meeting.
 1	Ömgöölögči	ömgöölögči	NOUN	_	Case=Nom	9	nsubj	_	_
 2	bolovč	bolovč	SCONJ	_	_	9	mark	_	_
-3	önöödör	önöödör	ADV	_	_	6	advmod	_	_
-4	üjlčlüülegčj-tei-gee	üjlčlüülegč	NOUN	_	Case=Com|Reflex=Yes	6	obl	_	_
-5	uulza-x	uulza	VERB	_	Tense=Fut|VerbForm=Part	6	xcomp	_	_
+3	önöödör	önöödör	ADV	_	_	9	advmod	_	_
+4	üjlčlüülegčj-tei-gee	üjlčlüülegč	NOUN	_	Case=Com|Reflex=Yes	9	obl	_	_
+5	uulza-x	uulza	VERB	_	Tense=Fut|VerbForm=Part	9	xcomp	_	_
 6	baj-san	baj	AUX	_	Aspect=Perf|Tense=Past	9	aux	_	_
 7	bol-son	bol	VERB	_	Aspect=Perf|Tense=Past	9	advcl	_	_
 8	teri	ter	DET	_	PronType=Dem	9	det	_	_
@@ -533,10 +533,10 @@
 # sent_id = Mongolian_Khalkha_grammar_54
 # text = pii naraa-g margaš ir-x-ig mit-an.
 # text[eng] = I know that Naraa will come tomorrow.
-1	pii	pii	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+1	pii	pii	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 2	naraa-g	naraa	PROPN	_	Case=Acc	4	nsubj	_	_
 3	margaš	margaš	ADV	_	_	4	advmod	_	_
-4	ir-x-ig	ir	VERB	_	Case=Acc|Tense=Pres|VerbForm=Part	6	ccomp	_	_
+4	ir-x-ig	ir	VERB	_	Case=Acc|Tense=Pres|VerbForm=Part	5	ccomp	_	_
 5	mit-an	mit	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -545,7 +545,7 @@
 # text[eng] = I know that the water is cold.
 1	us	us	NOUN	_	Case=Nom	3	nsubj	_	_
 2	xuitʰən	xuitʰən	ADJ	_	Degree=Pos	3	xcomp	_	_
-3	pai-g-ig	pai	AUX	_	Case=Acc|VerbForm=Part	5	ccomp	_	_
+3	pai-g-ig	baj	AUX	_	Case=Acc|VerbForm=Part	5	ccomp	_	_
 4	pii	pii	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	mit-an	mit	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
@@ -553,11 +553,11 @@
 # sent_id = Mongolian_Khalkha_grammar_56
 # text = pii mɔŋɢol-t pai-x-t-a in nɔm-ig aw-səŋ.
 # text[eng] = I bought this book when I was in Mongolia.
-1	pii	pii	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+1	pii	pii	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 2	mɔŋɢol-t	mɔŋɢol	PROPN	_	Case=Dat	3	obl	_	_
-3	pai-x-t-a	pai	AUX	_	Case=Dat|Reflex=Yes|Tense=Pres|VerbForm=Part	7	advcl	_	_
+3	pai-x-t-a	baj	AUX	_	Case=Dat|Reflex=Yes|Tense=Pres|VerbForm=Part	6	advcl	_	_
 4	in	in	DET	_	PronType=Dem	5	det	_	_
-5	nɔm-ig	nɔm	NOUN	_	Case=Acc	7	obj	_	_
+5	nɔm-ig	nɔm	NOUN	_	Case=Acc	6	obj	_	_
 6	aw-səŋ	aw	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -566,7 +566,7 @@
 # text[eng] = When I was in the shop, Bat went to the post office.
 1	namaig	namaig	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	tikgur-th	tikgur	NOUN	_	Case=Dat	3	obl	_	_
-3	pai-x-at	pai	AUX	_	Case=Dat|Tense=Pres|VerbForm=Part	6	advcl	_	_
+3	pai-x-at	baj	AUX	_	Case=Dat|Tense=Pres|VerbForm=Part	6	advcl	_	_
 4	path	path	PROPN	_	Case=Nom	6	nsubj	_	_
 5	šuudan-t	šuudan	NOUN	_	Case=Dat	6	obl	_	_
 6	jaw-səŋ	jaw	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -591,7 +591,7 @@
 3	irg-ač	irg	VERB	_	VerbForm=Conv	5	advcl	_	_
 4	xar-č	xar	VERB	_	VerbForm=Conv	5	advcl	_	_
 5	jaw-č	jaw	VERB	_	VerbForm=Conv	13	advcl	_	_
-6	pai-gat	pai	AUX	_	VerbForm=Conv	5	aux	_	_
+6	pai-gat	baj	AUX	_	VerbForm=Conv	5	aux	_	_
 7	čʰolɢon-t	čʰolɢon	NOUN	_	Case=Dat	8	obl	_	_
 8	tʰeegz-et	tʰeegz	VERB	_	VerbForm=Conv	13	advcl	_	_
 9	ʒiir-e	ʒiir	NOUN	_	Case=Acc|Reflex=Yes	13	obj	_	_
@@ -655,7 +655,7 @@
 # text[eng] = the factory where your father is working
 1	aaw-ij=čin	aaw	NOUN	_	Case=Gen|Number=Sing|Person=2|Poss=Yes	2	nsubj	_	_
 2	ačəlza-č	ačəlza	VERB	_	VerbForm=Conv	3	advcl	_	_
-3	pai-ga	pai	AUX	_	Mood=Ind|Tense=Pres	4	acl:relcl	_	_
+3	pai-ga	baj	AUX	_	Mood=Ind|Tense=Pres	4	acl:relcl	_	_
 4	uildwer	uildwer	NOUN	_	_	0	root	_	_
 
 # sent_id = Mongolian_Khalkha_grammar_67
@@ -787,12 +787,12 @@
 # sent_id = Mongolian_Khalkha_grammar_85
 # text = xirəw čhii pompg-or thɔgɮ-əx-ɔ cɔgs-əx=gui pɔɮ pii aw-čhəx-ən.
 # text[eng] = If you don’t stop playing with the ball, I’ll take it away.
-1	xirəw	xirəw	SCONJ	_	_	6	mark	_	_
+1	xirəw	xirəw	SCONJ	_	_	8	mark	_	_
 2	čhii	čhii	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 3	pompg-or	pompg	NOUN	_	Case=Ins	4	obl	_	_
 4	thɔgɮ-əx-ɔ	thɔgɮ	VERB	_	Reflex=Yes|Tense=Pres|VerbForm=Part	5	xcomp	_	_
-5	cɔgs-əx=gui	cɔgs	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Part	6	advcl	_	_
-6	pɔɮ	pɔɮ	AUX	_	Mood=Ind|VerbForm=Fin	8	aux	_	_
+5	cɔgs-əx=gui	cɔgs	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Part	8	advcl	_	_
+6	pɔɮ	bol	AUX	_	Mood=Ind|VerbForm=Fin	8	aux	_	_
 7	pii	pii	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 8	aw-čhəx-ən	aw	VERB	_	Aspect=Perf|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
@@ -819,6 +819,6 @@
 # text[eng] = I will wait until you come.
 1	pii	pii	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	čhamaig	čhamaig	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
-3	ir-thəɮ	ir	VERB	_	Case=Term|VerbForm=Part	4	advcl	_	_
+3	ir-thəɮ	ir	VERB	_	Case=Ter|VerbForm=Part	4	advcl	_	_
 4	xuɮe-n	xuɮe	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 
