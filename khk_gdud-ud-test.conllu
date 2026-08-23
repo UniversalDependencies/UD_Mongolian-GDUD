@@ -196,7 +196,7 @@
 2	zaxia	zaxia	NOUN	_	Case=Acc	3	obj	_	_
 3	bici-j	bic	VERB	_	Aspect=Prog|VerbForm=Conv	4	advcl	_	_
 4	bai-na	bai	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
-5	ge-j	ge	VERB	_	PartType=Quot|VerbForm=Conv	6	mark	_	_
+5	ge-j	ge	VERB	_	VerbForm=Conv	6	mark	_	PartType=Quot
 6	xel-sen	xel	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -206,7 +206,7 @@
 1	Zaxia	zaxia	NOUN	_	Case=Acc	2	obj	_	_
 2	bic-sen	bic	VERB	_	Aspect=Perf|VerbForm=Part	7	ccomp	_	_
 3	üü	üü	PART	_	PartType=Int	2	discourse	_	_
-4	ge-j	ge	VERB	_	PartType=Quot|VerbForm=Conv	7	mark	_	_
+4	ge-j	ge	VERB	_	VerbForm=Conv	7	mark	_	PartType=Quot
 5	bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	tüün-ees	tüün	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 7	asuu-laa	asuu	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -217,7 +217,7 @@
 # text[eng] = I know that the water is cold.
 1	Us	us	NOUN	_	Case=Nom	2	nsubj	_	_
 2	xüiten	xüiten	ADJ	_	Degree=Pos	4	ccomp	_	_
-3	ge-j	ge	VERB	_	PartType=Quot|VerbForm=Conv	4	mark	_	_
+3	ge-j	ge	VERB	_	VerbForm=Conv	4	mark	_	PartType=Quot
 4	bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	med-ne	med	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
@@ -247,7 +247,7 @@
 1	Ter	ter	DET	_	PronType=Dem	2	det	_	_
 2	xüü	xüü	NOUN	_	Case=Nom	4	nsubj	_	_
 3	gol	gol	NOUN	_	Case=Acc	4	obj	_	_
-4	gatal-snaa	gatal	VERB	_	Aspect=Succ|VerbForm=Conv	10	advcl	_	_
+4	gatal-snaa	gatal	VERB	_	VerbForm=Conv	10	advcl	_	Aspect=Succ
 5	nögöö	Nögöö	DET	_	PronType=Dem	6	det	_	_
 6	xojor-oos-oo	xojor	NUM	_	Case=Abl|NumType=Card|Reflex=Yes	7	obl	_	_
 7	tasra-n	tasra	VERB	_	VerbForm=Conv	10	advcl	_	Modality=Yes
@@ -318,7 +318,7 @@
 7	bol-son	bol	VERB	_	Aspect=Perf|Tense=Past	9	advcl	_	_
 8	teri	ter	DET	_	PronType=Dem	9	det	_	_
 9	uulzalt-aa	uulzalt	NOUN	_	Case=Acc|Reflex=Yes	0	root	_	_
-10	xojšl-uul-žee	xojšl	VERB	_	Evident=Dir|Tense=Past|Voice=Cau	9	acl	_	_
+10	xojšl-uul-žee	xojšl	VERB	_	Evident=Fh|Tense=Past|Voice=Cau	9	acl	_	_
 11	nögöödöxj	nögöödöxj	SCONJ	_	_	13	mark	_	_
 12	n'	n'	PRON	_	Person=3|Poss=Yes|PronType=Prs	13	nsubj	_	_
 13	zav-güj	zav	ADJ	_	Polarity=Neg	10	advcl	_	SpaceAfter=No
@@ -782,7 +782,7 @@
 # text = xaŋ aɮ-əgt-čhəx=če
 # text[eng] = The king has been killed.
 1	xaŋ	xaŋ	NOUN	_	Case=Nom	2	nsubj:pass	_	_
-2	aɮ-əgt-čhəx=če	aɮ	VERB	_	Aspect=Perf|Evident=Indir|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	aɮ-əgt-čhəx=če	aɮ	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 
 # sent_id = Mongolian_Khalkha_grammar_85
 # text = xirəw čhii pompg-or thɔgɮ-əx-ɔ cɔgs-əx=gui pɔɮ pii aw-čhəx-ən.
